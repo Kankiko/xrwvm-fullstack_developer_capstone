@@ -36,7 +36,7 @@ ALLOWED_HOSTS = [
 ]
 CSRF_TRUSTED_ORIGINS = [
     'https://gautrucnguye-8000.'
-    'theiadockernext-0-labs-prod-theiak8s-4-tor01.'
+    'theianext-1-labs-prod-misc-tools-us-east-0.'
     'proxy.cognitiveclass.ai'
 ]
 
